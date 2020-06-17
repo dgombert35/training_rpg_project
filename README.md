@@ -7,7 +7,6 @@ Purpose of my project :
   => improve my skills
   => clean code
   => improve my backend skills
-  => develop multipl parts BDD => back => front
   
 
 Technologies : 
@@ -16,5 +15,6 @@ Technologies :
 Futurs challenges :
     => continous delivery
     => Junit tests
+    => develop multiple parts (BDD => back => front)
     => front with angular (but no design for now)
     => deploy project on linux server
